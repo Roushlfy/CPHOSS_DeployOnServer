@@ -1,0 +1,1 @@
+`test/` directory is used for developing a proper environment to deploy neural networks on servrs.
